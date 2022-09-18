@@ -1,4 +1,4 @@
-<img src="(https://user-images.githubusercontent.com/111719617/190922677-d4f2809f-f91c-4223-bc7b-50d57834d26c.png)">
+<img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/Dos_lineas_Izq/UdeC_2L%20izq_Blanco.png">
 <h1>Facultad de Ingeniería Mecánica y Eléctrica<h1>
 <h2>Ingeniería en Computación Inteligente<h2>
 <h3>Fundamentos de Programación<h3>
