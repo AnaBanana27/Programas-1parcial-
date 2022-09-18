@@ -2,6 +2,6 @@
 <h1>Facultad de Ingeniería Mecánica y Eléctrica<h1>
 <h2>Ingeniería en Computación Inteligente<h2>
 <h3>Fundamentos de Programación<h3>
-<h4>Estudiante: Ana Isabel Sanchez Heredia <h4>
+<h4>Estudiante: Ana Isabel Sánchez Heredia <h4>
 <h5>Profesor: Dr. Walter Alexander Mata López<h5>
 
